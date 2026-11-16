@@ -1,0 +1,4 @@
+interface:
+  display_name: "前端创作 · Frontend Engine"
+  short_description: "按任务规模衔接设计、实现与验证，按需三方案选图，支持 Web 和 SwiftUI"
+  default_prompt: "使用 $frontend-engine，按任务规模和已有视觉目标选择流程，以最小完整实现交付 Web 或 SwiftUI 界面并验证。"
